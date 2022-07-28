@@ -65,7 +65,7 @@ header h1 {
   margin: 0 10px;
 }
 ul {
-  list-style-type: none;
+  list-style-type: none
   color: #fff;
   font-size: 16px;
 }
